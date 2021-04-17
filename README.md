@@ -21,7 +21,7 @@
 -  :page_facing_up: [الأمر git init جزء 1]()
 -  :page_facing_up: [الأمر git init جزء 2]()  
 
--  
+  
 ### :ledger: مراحل الملفات | Git Stages
 -  :page_facing_up: [مفهوم Git Stages]()
 -  :page_facing_up: [الأمر git status]()
