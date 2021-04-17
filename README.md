@@ -19,7 +19,8 @@
 -  :page_facing_up: [أنواع أنظمة التحكم بالنسخ VCS]()
 
 ### :ledger: تحميل الأدوات
--  :page_facing_up: [تحميل الأدوات]()
+-  :page_facing_up: [تنزيل Git على نظام Windows]()
+-  :page_facing_up: [تنزيل Git على نظام MacOS]()
 ### :ledger: ابدأ مع Git
 -  :page_facing_up: [الأمر git init جزء 1]()
 -  :page_facing_up: [الأمر git init جزء 2]()  
