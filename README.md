@@ -62,7 +62,6 @@
 ### :ledger:  المشاريع الخارجية | Remote
 -  :page_facing_up: [إضافة remote]()
 -  :page_facing_up: [رفع التحديثات لمشروع خارجي]()
--  :page_facing_up: [الأمر git pull]()
 -  :page_facing_up: [حذف remote]()
 
 
